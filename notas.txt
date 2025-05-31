@@ -7,13 +7,12 @@ sudo apt install ansible
 
 # comando para conectarse al pc de daniel
 
-    ssh -i ~/.ssh/id_ed25519 -vvv lenovo@192.168.20.7
+    #ssh -i ~/.ssh/id_ed25519 -vvv lenovo@192.168.20.7
     dan
 
 
 
 ########################### conexion a raspberry pi ##########################
 
-    sudo ssh -X kami@192.168.20.34
-    kamilo
+    # sudo ssh -X kami@192.168.20.34
 
